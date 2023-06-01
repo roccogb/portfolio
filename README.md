@@ -1,2 +1,2 @@
 # Portfolio
-My first portfolio made mainly with js and other technologies
+My first portfolio made with js, html and css
